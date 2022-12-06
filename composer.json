@@ -1,0 +1,11 @@
+{
+    "require": {
+        "devcoder-xyz/php-router": "^1.2"
+    },
+    "autoload": {
+        "psr-4": {
+            "App\\": "App/",
+            "Core\\": "Core/"
+        }
+    }
+}

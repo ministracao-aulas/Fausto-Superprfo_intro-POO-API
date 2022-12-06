@@ -1,0 +1,10 @@
+### Extension ID
+### @id:humao.rest-client
+
+#### My GET request description
+GET http://127.0.0.1:8000/api/users
+Accept: application/json
+
+#### My GET request description
+GET http://127.0.0.1:8000/api/users/123
+Accept: application/json
